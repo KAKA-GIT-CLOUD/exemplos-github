@@ -1,6 +1,6 @@
 # exemplos-github
-Exemplos de projetos para aprendizagem.
+1- Exemplos de projetos para aprendizagem.
 
-Primeiro exemplo de commit e push no repositorio remoto.
+2- Primeiro exemplo de commit e push no repositorio remoto.
 
-segundo exemplo de commit e push no repositorio remoto.
+2- segundo exemplo de commit e push no repositorio remoto.
