@@ -1,2 +1,2 @@
 # exemplos-github
-Exemplos de projetos para aprendizagem
+Exemplos de projetos para aprendizagem.
